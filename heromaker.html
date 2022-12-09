@@ -1,0 +1,72 @@
+<html>
+	<head>
+		<title>heroMaker</title>
+		<style type="text/css">
+			html{
+				font-family:Roboto;
+				background-color:#E97955;
+			}
+			
+			#saveButton {
+				width:500px;
+				background-color :#D555EB;
+			}
+
+
+
+			#instructions {
+				font-style: italic;
+
+			}
+			
+			.prop {
+				border: 2px dotted purple;
+				width:300px;
+				padding: 5px;
+				background-color: lightblue;
+				color: #ffff00;
+				
+			}
+		</style>
+	</head>
+	<body>
+		<div style="margin-left: auto; margin-right: auto; width:800px; display:block">
+			<h1>
+				HeroMaker
+			</h1>
+			<h2> Create your own hero </h2>
+
+			<p id="instructions">Choose the powers of your hero, then enter the name, fill out the info, tap the save button, and you're all done!</p>
+			<form>
+				<div class="prop">
+					<label for="firstName">
+						First Name
+					</label>
+					<input id="firstName"></input> 
+				</div>		
+				<div class="prop">
+					<label for="lastName">
+						last name 
+					</label>
+					<input id="lastName">
+					</input>
+				</div>
+				<div class="prop">
+					<select id="powers" multiple="true">
+						<option>
+							mind reading
+						</option>
+						<option>
+							portals
+						</option>
+						<option>
+							mind control
+						</option>
+					</select>
+				</div>
+				<input type="submit" id="saveButton" value="Save Hero">
+				</input>
+			</form>
+		</div>
+	</body>
+</html>

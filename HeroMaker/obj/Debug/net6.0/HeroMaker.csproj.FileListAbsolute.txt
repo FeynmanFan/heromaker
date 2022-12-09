@@ -1,0 +1,12 @@
+C:\Projects\Sophie\HeroMaker\bin\Debug\net6.0\HeroMaker.deps.json
+C:\Projects\Sophie\HeroMaker\bin\Debug\net6.0\HeroMaker.dll
+C:\Projects\Sophie\HeroMaker\bin\Debug\net6.0\HeroMaker.pdb
+C:\Projects\Sophie\HeroMaker\obj\Debug\net6.0\HeroMaker.csproj.AssemblyReference.cache
+C:\Projects\Sophie\HeroMaker\obj\Debug\net6.0\HeroMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Sophie\HeroMaker\obj\Debug\net6.0\HeroMaker.AssemblyInfoInputs.cache
+C:\Projects\Sophie\HeroMaker\obj\Debug\net6.0\HeroMaker.AssemblyInfo.cs
+C:\Projects\Sophie\HeroMaker\obj\Debug\net6.0\HeroMaker.csproj.CoreCompileInputs.cache
+C:\Projects\Sophie\HeroMaker\obj\Debug\net6.0\HeroMaker.dll
+C:\Projects\Sophie\HeroMaker\obj\Debug\net6.0\refint\HeroMaker.dll
+C:\Projects\Sophie\HeroMaker\obj\Debug\net6.0\HeroMaker.pdb
+C:\Projects\Sophie\HeroMaker\obj\Debug\net6.0\ref\HeroMaker.dll

@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1.csproj", "{64794632-E6B2-4EA3-8EEE-4E16CA3509BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeroMaker", "..\HeroMaker\HeroMaker.csproj", "{3969252D-E86C-4053-B0CC-598B3392F60B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3FCFFCA1-5505-470D-84A9-CE02FE8D6946}"
+	ProjectSection(SolutionItems) = preProject
+		..\heromaker.html = ..\heromaker.html
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroMaker.Tests", "..\HeroMaker.Tests\HeroMaker.Tests.csproj", "{81D19FF6-87D4-4519-B933-521AA6AA131A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64794632-E6B2-4EA3-8EEE-4E16CA3509BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64794632-E6B2-4EA3-8EEE-4E16CA3509BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64794632-E6B2-4EA3-8EEE-4E16CA3509BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64794632-E6B2-4EA3-8EEE-4E16CA3509BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3969252D-E86C-4053-B0CC-598B3392F60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3969252D-E86C-4053-B0CC-598B3392F60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3969252D-E86C-4053-B0CC-598B3392F60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3969252D-E86C-4053-B0CC-598B3392F60B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81D19FF6-87D4-4519-B933-521AA6AA131A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D19FF6-87D4-4519-B933-521AA6AA131A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D19FF6-87D4-4519-B933-521AA6AA131A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D19FF6-87D4-4519-B933-521AA6AA131A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53A04580-CDAE-4633-A593-E184B4BF8D9B}
+	EndGlobalSection
+EndGlobal
