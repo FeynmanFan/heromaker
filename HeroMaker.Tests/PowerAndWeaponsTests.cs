@@ -3,7 +3,7 @@ using HeroMaker.Powers;
 namespace HeroMaker.Tests
 {
     [TestClass]
-    public class UnitTest1
+    public class PowerAndWeaponsTests
     {
         [TestMethod]
         public void CrystalPowerGivesRangedBonusOne()
@@ -55,7 +55,7 @@ namespace HeroMaker.Tests
         public void SimpleWeaponsTest() 
         {
             // arrange
-            var dagger = new Weapon();
+            var dagger = new MeleeWeapon();
             dagger.Title = "dagger";
             // act
             // assert        

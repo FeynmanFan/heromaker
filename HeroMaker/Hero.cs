@@ -38,6 +38,28 @@
             }
         }
 
+        public int MeleeWeaponsDamageBonus
+        {
+            get
+            {
+                int totalBonus = 0;
+
+                foreach (var weapon in this.Weapons)
+                {
+                    if (weapon is MeleeWeapon)
+                    {
+                        totalBonus += weapon.AttackDamage;
+                    }
+                }
+                return totalBonus;
+            }
+
+        }
+
+
+
+
+
         public int RangedBonusFromPowers
         {
             get
